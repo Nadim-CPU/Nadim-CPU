@@ -1,4 +1,3 @@
-## Hi there 👋
 ![hippo](https://i.kym-cdn.com/photos/images/original/003/084/934/f2f.gif)
 <!--
 **Nadim-CPU/Nadim-CPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
