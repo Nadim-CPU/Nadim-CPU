@@ -1,6 +1,16 @@
 <p align="center">
- <img src="https://i.kym-cdn.com/photos/images/original/003/084/934/f2f.gif"/>
+### 21 | 🇱🇧 | Lad | BS - Comp Sci
+# Welcome!
+
+Hello! 👋 My name is Nadim, and I'm a dev thats still trying to understand what I want to do in the future. I don't usually use this account for personal projects anymore but instead for school/work stuff (mainly to keep things hidden :P). I'm also trying to avoid using AI as much as I can to ensure I am well-rounded and self-reliant (You should too as journeyman!).
+
+#### Language(s) I'm tryna get good at: Java , Javascript, CSS <- (I'm serious this low key pisses me off)
+
+
+ <img src="https://i.imgur.com/Q3cUg29.gif"/>
 </p>
+
+
 <!--
 **Nadim-CPU/Nadim-CPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
