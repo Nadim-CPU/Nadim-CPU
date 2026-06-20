@@ -1,4 +1,4 @@
-### 21 | 🇱🇧 | Lad | BS - Comp Sci
+### 21 | 🇱🇧 | BS - Comp Sci
  
 # Welcome!
 
